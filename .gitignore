@@ -1,6 +1,17 @@
 *.png
 *.jpg
+*.ico
+*.exe
+*.syso
+*.txt
 
 test/
 
 /.idea/
+
+utils/
+
+bypass1/
+bypass2/
+bypass3/
+bypass5/
