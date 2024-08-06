@@ -1,0 +1,6 @@
+*.png
+*.jpg
+
+test/
+
+/.idea/
